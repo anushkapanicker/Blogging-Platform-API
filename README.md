@@ -35,9 +35,7 @@ Password: *(leave blank)*
 #### 💻 Note: All URLs are for local development. The app runs on `localhost:8080` by default.
 
 ## 🌐 Project URL
-The project runs locally at:  
-👉 [http://localhost:8080](http://localhost:8080)
-
+https://roadmap.sh/projects/blogging-platform-api
 
 ## 🧠 Run the Project
 ```bash
